@@ -39,7 +39,7 @@ note keeps its previous date instead.
 ## Licence
 
 Data: **CC BY 4.0** — reuse with attribution to *Actual Database* and the date shown.
-Cite as: `Actual Database (2026). Dated price and capacity figures. https://actualdatabase.com/data/`
+Cite as: `Actual Database (2026). Dated price and capacity figures. https://actualdatabase.com/data/
 
 ## Caveats worth knowing before you use this
 
